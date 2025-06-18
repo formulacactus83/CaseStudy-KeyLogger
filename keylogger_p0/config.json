@@ -5,6 +5,5 @@
     "time_interval": 10,
     "max_log_size_mb": 5,
     "stealth_mode": false,
-    "use_selenium": false,
-    "encryption_key": "Sn4J1sUgqGoTfEQmI2j5jEspxKIeVoDqTz1vnbsL2QA="
+    "use_selenium": false
 }
